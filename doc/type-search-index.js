@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.darkdev5.lib.console","l":"Console"},{"p":"org.darkdev5.lib.console.exception","l":"UnsupportedConsoleException"}];updateSearchResults();
