@@ -1,5 +1,6 @@
 # Console
 Add new feel to work with console.
+Good features to print text and read input from user.
 
 ```java
 import static org.darkdev5.lib.console.Console.*;
